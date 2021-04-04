@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'seamstress.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'AUDITSERVICE',
-        'USER': 'shop',
-        'PASSWORD': 'lovia2020',
-        'HOST': 'localhost',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
     }
 }
 
